@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lukas-Forst
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning NLP & DeepLearning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything
+
 
 <!---
 Lukas-Forst/Lukas-Forst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
