@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukas-Forst
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning NLP & DeepLearning
+- 🌱 I’m currently learning Solidity & Data visualization
 - 💞️ I’m looking to collaborate on anything
 
 
